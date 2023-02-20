@@ -1,12 +1,14 @@
 # ALEXonyourscreen CS:GO Config
 
-### Installation
+You probably made it here after checking out my observer system, [SCOPE](https://github.com/ALEXonyourscreen/SCOPE), so thanks for dropping in to see my actual game config! Most of you will absolutely hate it so hopefully you have a laugh, and maybe find a couple of things you can use to tweak your own `autoexec.cfg`.
+
+## Installation
 
 Download the source of this repo and drop `aoys.cfg` and the `/aoys` folder into `[csgo_install_dir] /csgo/cfg`.
 
 Type `exec aoys` in the CS:GO console to run my configuration.
 
-### Notable Features
+## Notable Features
 
 > Weapon buy keybind layout
 
