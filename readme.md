@@ -10,7 +10,7 @@ Type `exec aoys` in the CS2 console to run my configuration.
 
 ## Notable Features
 
-> Weapon buy keybind layout (currently broken in CS2, must use specific loadout)
+> Weapon buy keybind layout
 
 > Purchase nade binds while in spawn, switch to nade otherwise
 
@@ -18,4 +18,4 @@ Type `exec aoys` in the CS2 console to run my configuration.
 
 > Quickswitch bind that can be held to keep knife out
 
-> Automated recoil-follow that resets each spray and disables when using pistols
+> Automated recoil-follow crosshair that resets each spray and disables when using pistols
